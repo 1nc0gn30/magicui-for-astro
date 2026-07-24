@@ -1,14 +1,26 @@
-# magicui-for-astro
+<!-- xonettn -->
+<div align="center">
+
+# 📦 Magicui For Astro
 
 UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
-## Overview
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 📋 Overview
 UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
-## Tech Stack
+## 📦 Tech Stack
 - MDX
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 magicui-for-astro/
   - apps
@@ -16,30 +28,30 @@ magicui-for-astro/
   (936 files total)
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 - Node.js (v18+)
 - npm or yarn
 
-### Installation
+### 📦 Installation
 ```bash
 git clone https://github.com/1nc0gn30/magicui-for-astro.git
 cd magicui-for-astro
 npm install
 ```
 
-### Development
+### 💻 Development
 ```bash
 npm run dev
 ```
 
-### Build
+### 🔨 Build
 ```bash
 npm run build
 ```
 
-### Available Scripts
+### ⚙️ Available Scripts
   npm run preinstall - npx only-allow pnpm
   npm run dev - turbo run dev --parallel
   npm run build - turbo run build
@@ -54,7 +66,7 @@ npm run build
   npm run build:registry - pnpm --filter=www build:registry && pnpm --filter=www lint:fix && pnpm format:fix:silent
   npm run check - pnpm lint && pnpm typecheck && pnpm format:check && pnpm registry-deps:check
 
-## Original README
+## 📂 Original README
 <details>
 <summary>Click to expand original README</summary>
 
@@ -75,7 +87,7 @@ npm run build
 
 Visit https://magicui.design/docs to view the documentation.
 
-## Contributing
+## 🤝 Contributing
 
 Visit our [contributing guide](https://github.com/magicuidesign/magicui/blob/main/CONTRIBUTING.md) to learn how to contribute. It only takes ~5 minutes to add your own!
 
@@ -83,7 +95,7 @@ Visit our [contributing guide](https://github.com/magicuidesign/magicui/blob/mai
 
 Have questions, comments or feedback? [Join our discord](http://magicui.design/discord).
 
-## Authors
+## 👤 Authors
 
 <a href="https://github.com/magicuidesign/magicui/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=magicuidesign/magicui" />
@@ -97,13 +109,13 @@ Have questions, comments or feedback? [Join our discord](http://magicui.design/d
 
 [![Star History Chart](https://api.star-history.com/svg?repos=magicuidesign/magicui&type=Date)](https://www.star-history.com/#magicuidesign/magicui&Date)
 
-## License
+## 📜 License
 
 Licensed under the [MIT license](https://github.com/magicuidesign/magicui/blob/main/LICENSE.md).
 
 </details>
 
-## TODO / Roadmap
+## 📝 TODO / Roadmap
 - [ ] Add unit tests
 - [ ] Add Dockerfile for containerized deployment
 - [ ] Add deployment configuration
@@ -114,14 +126,22 @@ Licensed under the [MIT license](https://github.com/magicuidesign/magicui/blob/m
 - [ ] Update dependencies to latest versions
 - [ ] Add code comments and inline documentation
 
-## Deployment
+## 🚀 Deployment
 This project can be deployed to Netlify, Vercel, or any static host.
 
-## Author
+## 👤 Author
 **Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/1nc0gn30/magicui-for-astro
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
